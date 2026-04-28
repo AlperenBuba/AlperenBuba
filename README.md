@@ -6,14 +6,18 @@
 ## 🛠️ Technical Arsenal
 
 ### 🚀 Programming Languages
-* **High-Level:** Python, C#, Java (Android Studio)
-* **Low-Level & Scripting:** C (during the learning phase), Assembly (x86/x64) (during the learning phase), Lua
-* **Web Stack:** PHP, HTML, CSS, JavaScript
+* **High-Level:** Python 🐍, C# 💠, Java☕ (Android Studio)
+* **Low-Level & Scripting:** C (Learning phase) 🛠️, Assembly x86/x64 (Learning phase) ⚙️, C++ (Ardunio)🏎️
+* **Web Stack:** PHP 🐘, HTML 🌐, CSS 🎨, JavaScript 📜, MVC (ASP) 🚀, SQL (MySQL/MariaDB) 🗄️
 
 ### 🛡️ Cybersecurity & Networking
 * **Security Tools:** Nmap👁️, Wireshark🦈, Metasploit🛡️, Aircrack-ng⚡, Hydra🐉, CherryTree🍒, Bettercap🥷, Tor Project🧅, dirb🖥️, sherlock🕵️
-* **Expertise:** Network Scanning, ARP Spoofing, Hidden Services (.onion), System Hardening
-* **Operating Systems:** Advanced Linux User (Arch, Kali, Ubuntu, antiX, Q4OS) | Kernel Optimization & Customization
+* **Expertise:** Network Scanning, ARP Spoofing, MITM Attacks, Hidden Services (.onion), System Hardening, Wireless Security, Brute Force Testing
+
+### 🐧 Operating Systems & Hardware
+* **Linux Mastery:** Advanced user of Arch Linux 🏔️, Kali 🐉, Ubuntu 🏗️, antiX 🚀, Q4OS 🎈, Linux Mint 🍃
+* **Systems:** Kernel Optimization & Customization, Bash Scripting, Package Management (APT, Pacman, Flatpak), Desktop Environment Tweak (Aero/Y2K aesthetics)
+* **Hardware:** PC Building, GPU Overclocking (RX 6700 XT), Thermal Management, Raspberry Pi Zero 2W Projects 🍓
 
 ### 📂 Featured Projects
 * **Wandel AI:** Developing a local-resource powered AI model and persona.
