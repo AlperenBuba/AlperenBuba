@@ -7,7 +7,7 @@
 
 ### 🚀 Programming Languages
 * **High-Level:** Python, C#, Java (Android Studio)
-* **Low-Level & Scripting:** C, Assembly (x86/x64), Lua
+* **Low-Level & Scripting:** C (during the learning phase), Assembly (x86/x64) (during the learning phase), Lua
 * **Web Stack:** PHP, HTML, CSS, JavaScript
 
 ### 🛡️ Cybersecurity & Networking
