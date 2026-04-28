@@ -11,7 +11,7 @@
 * **Web Stack:** PHP, HTML, CSS, JavaScript
 
 ### 🛡️ Cybersecurity & Networking
-* **Security Tools:** Nmap, Wireshark, Metasploit, Bettercap, Tor Project
+* **Security Tools:** Nmap👁️, Wireshark🦈, Metasploit🛡️, Aircrack-ng⚡, Hydra🐉, CherryTree🍒, Bettercap🥷, Tor Project🧅, dirb🖥️, sherlock🕵️
 * **Expertise:** Network Scanning, ARP Spoofing, Hidden Services (.onion), System Hardening
 * **Operating Systems:** Advanced Linux User (Arch, Kali, Ubuntu, antiX, Q4OS) | Kernel Optimization & Customization
 
