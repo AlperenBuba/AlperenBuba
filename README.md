@@ -35,4 +35,4 @@
 * 🚗 Aspiring to integrate software expertise with automotive electronics and industrial systems.
 
 ---
-📫 **Connect with me:** [alperen2009g@gmail.com]
+📫 **Connect with me:** [alperen2009g@gmail.com] or [alperen2009g@outlook.com]
