@@ -27,10 +27,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Alperen's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AlperenBuba&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlperenBuba&layout=compact&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlperenBuba&layout=compact&theme=tokyonight)
+![Alperen's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AlperenBuba&show_icons=true&theme=tokyonight) <br>
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlperenBuba&layout=compact&theme=tokyonight&langs_count=10)
 
 ---
 
