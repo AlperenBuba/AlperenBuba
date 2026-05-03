@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats
 ![Alperen's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AlperenBuba&show_icons=true&theme=tokyonight) <br>
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlperenBuba&layout=compact&theme=tokyonight&langs_count=10)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlperenBuba&layout=compact&theme=tokyonight&langs_count=20&hide_threshold=0)
 
 ---
 
