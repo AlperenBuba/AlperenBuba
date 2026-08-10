@@ -1,7 +1,7 @@
 # 👋 Merhaba, Ben Alperen G****!
 ### DevSecOps Mühendisi Adayı & Siber Güvenlik Araştırmacısı
 
-> *"Sistemleri otomatize etmek, altyapıları zırhlandırmak ve güvenliği yazılım geliştirme döngüsünün her katmanına entegre etmek."*
+> *"Kodun ilk satırından canlıya: Otomatik, sarsılmaz ve doğuştan güvenli."*
 
 ---
 
