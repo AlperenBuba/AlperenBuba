@@ -28,7 +28,7 @@
 * 🤖 **Wandel AI:** Developing a localized, resource-optimized AI model and persona environment.
 * 🧮 **HesapLab:** A fully functional scientific calculator and mathematical logic tool engineered for high accuracy.
 * 🧅 **Tor Infrastructure:** Deploying and managing self-hosted secure file servers and .onion hidden service nodes.
-
+* 👁️ **TepeGöz Client:** It is a very powerful program that processes all accounts in the format [first name] or [first name] [last name] and filters out false-positive sites.
 ---
 
 ## 📊 GitHub Statistics
