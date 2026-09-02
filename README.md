@@ -43,7 +43,7 @@
 
 ## 🎯 Education, Vision & Discipline
 
-* 🎓 **Education:** 11th Grade Information Technology & Software Student.
+* 🎓 **Education:** 12th Grade Information Technology & Software Student.
 * 🥊 **Character & Discipline:** Amateur Boxer — Applying strategic thinking under pressure, high discipline, and absolute focus on the target.
 * 🚗 **Future Vision:** Aspiring to integrate software and cybersecurity expertise with automotive electronics, industrial telemetry, and hardware systems.
 
