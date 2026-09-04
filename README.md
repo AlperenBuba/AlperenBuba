@@ -19,7 +19,7 @@
 
 ### 🐧 Operating Systems, Infrastructure & Hardware
 * **Linux Mastery:** Arch Linux 🏔️, Kali Linux 🐉, Ubuntu 🏗️, antiX 🚀, Q4OS 🎈, Linux Mint 🍃 *(Advanced experience)*
-* **Systems Administration:** Kernel Optimization & Customization, Bash/Shell Scripting, Package Management *(APT, Pacman, Flatpak)*, Custom Desktop Environments *(Aero / Y2K aesthetics)*
+* **Systems Administration:** Kernel Optimization & Customization, Bash/Shell Scripting, Package Management *(APT, Pacman, Flatpak)*, Custom Desktop Environments
 * **Hardware & Embedded:** PC Architecture & Custom Building, GPU Tuning *(RX 6700 XT)*, Thermal Management, Raspberry Pi Zero 2W Projects 🍓
 
 ---
