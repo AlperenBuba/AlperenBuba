@@ -14,7 +14,7 @@
 * **Web Architecture:** PHP 🐘, HTML5 🌐, CSS3 🎨, JavaScript 📜, ASP.NET MVC 🚀, SQL *(MySQL / MariaDB)* 🗄️
 
 ### 🛡️ Cybersecurity, DevSecOps & Networking
-* **Security Tools:**<br> <img src="/nmap-logo.png" alt="Nmap" height="28"><img src="/wireshark-logo.png" alt="Wireshark"> Metasploit 🛡️, Aircrack-ng ⚡, Hydra 🐉, CherryTree 🍒, Bettercap 🥷, Tor Project 🧅, Dirb 🖥️, Sherlock 🕵️
+* **Security Tools:**<br> <img src="/nmap-logo.png" alt="Nmap" height="28"><img src="/wireshark-logo.png" alt="Wireshark"><img src="/metasploit-logo.png" alt="Metasploit"> Aircrack-ng ⚡, Hydra 🐉, CherryTree 🍒, Bettercap 🥷, Tor Project 🧅, Dirb 🖥️, Sherlock 🕵️
 * **Core Expertise:** Network Reconnaissance, ARP Spoofing, MITM Attacks, Hidden Services (.onion), System Hardening, Wireless Security, Brute Force Testing, Network Protocols (OSI Model & TCP/IP)
 
 ### 🐧 Operating Systems, Infrastructure & Hardware
