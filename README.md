@@ -63,7 +63,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlperenBuba&show_icons=true&theme=tokyonight" alt="Alperen's GitHub Stats" width="400"/><br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlperenBuba&layout=compact&theme=tokyonight&langs_count=20&hide_threshold=0" alt="Top Languages" width="400"/><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlperenBuba&theme=dark" height="160" width="400"><br>
-
+</p>
 
 
 ---
