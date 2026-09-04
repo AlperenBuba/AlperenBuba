@@ -10,8 +10,10 @@
 ### ⚙️ Software Development & Automation
 * **High-Level:** <br>
 <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"><img src="https://camo.githubusercontent.com/4ebb35660f2ff197962ab68e9506e972e6705756e13f68ec8918046051149190/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465" alt="C#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-* **Low-Level & Scripting:** C *(Learning phase)* 🛠️, Assembly x86/x64 *(Learning phase)* ⚙️, C++ *(Arduino)* 🏎️
-* **Web Architecture:** PHP 🐘, HTML5 🌐, CSS3 🎨, JavaScript 📜, ASP.NET MVC 🚀, SQL *(MySQL / MariaDB)* 🗄️
+* **Low-Level & Scripting:**<br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+* **Web Architecture:**<br>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<img src="https://camo.githubusercontent.com/b6438621eef4260dad5cbde6d0d84852094ae6421094f9684ae2305875b57970/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4153502e4e45545f436f72652d3531324244343f7374796c653d666f722d7468652d6261646765266c6f676f3d646f746e6574266c6f676f436f6c6f723d7768697465">![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛡️ Cybersecurity, DevSecOps & Networking
 * **Security Tools:**<br> <img src="/nmap-logo.png" alt="Nmap" height="28"><img src="/wireshark-logo.png" alt="Wireshark"><img src="/metasploit-logo.png" alt="Metasploit"><img src="/aircrackng-logo.png" alt="Aircrack-ng"> Hydra 🐉, CherryTree 🍒, Bettercap 🥷, Tor Project 🧅, Dirb 🖥️, Sherlock 🕵️
