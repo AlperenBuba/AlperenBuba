@@ -1,4 +1,12 @@
 # 👋 Hi, I'm Alperen G****!
+![Profile Views](https://komarev.com/ghpvc/?username=AlperenBuba&color=007ec6&style=for-the-badge)
+<a href="https://github.com/AlperenBuba?tab=followers">
+  <img src="https://img.shields.io/github/followers/AlperenBuba?style=for-the-badge&logo=github&color=1e1e1e" height="28">
+</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007EC6&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Python,+C%23,+Java+Developer;Learning+C+and+Assembly;Linux+%26+Open+Source+Lover" alt="Typing SVG" />
+</p>
+
 ### Aspiring DevSecOps Engineer & Cybersecurity Researcher
 
 > *"From the first line of code to production: Automated, resilient, and secure by design."*
@@ -20,9 +28,10 @@
 * **Core Expertise:** Network Reconnaissance, ARP Spoofing, MITM Attacks, Hidden Services (.onion), System Hardening, Wireless Security, Brute Force Testing, Network Protocols (OSI Model & TCP/IP)
 
 ### 🐧 Operating Systems, Infrastructure & Hardware
-* **Linux Mastery:** Arch Linux 🏔️, Kali Linux 🐉, Ubuntu 🏗️, antiX 🚀, Q4OS 🎈, Linux Mint 🍃 *(Advanced experience)*
+* **Linux Mastery:**<br>
+![Arch](https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)![Kali](https://img.shields.io/badge/Kali-%23268BEE.svg?style=for-the-badge&logo=kalilinux&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2387CF3E.svg?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 * **Systems Administration:** Kernel Optimization & Customization, Bash/Shell Scripting, Package Management *(APT, Pacman, Flatpak)*, Custom Desktop Environments
-* **Hardware & Embedded:** PC Architecture & Custom Building, GPU Tuning *(RX 6700 XT)*, Thermal Management, Raspberry Pi Zero 2W Projects 🍓
+* **Hardware & Embedded:** <br>PC Architecture & Custom Building, GPU Tuning *(RX 6700 XT)*, Thermal Management, Raspberry Pi Zero 2W Projects 🍓<br>![AMD](https://img.shields.io/badge/amd-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
@@ -35,13 +44,18 @@
 * 📜 **wordlist-creator-pro:** A versatile tool for generating password combinations. It can generate and save strong password combinations using both numbers and personal information.
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlperenBuba/AlperenBuba/output/github-snake-dark.svg" alt="Snake Animation" width="100%">
+</p>
+
 ## 📊 GitHub Statistics
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlperenBuba&show_icons=true&theme=tokyonight" alt="Alperen's GitHub Stats" />
-  <br />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlperenBuba&layout=compact&theme=tokyonight&langs_count=20&hide_threshold=0" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlperenBuba&theme=dark" height="160">
+
+
 
 ---
 
