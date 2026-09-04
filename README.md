@@ -16,7 +16,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<img src="https://camo.githubusercontent.com/b6438621eef4260dad5cbde6d0d84852094ae6421094f9684ae2305875b57970/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4153502e4e45545f436f72652d3531324244343f7374796c653d666f722d7468652d6261646765266c6f676f3d646f746e6574266c6f676f436f6c6f723d7768697465">![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛡️ Cybersecurity, DevSecOps & Networking
-* **Security Tools:**<br> <img src="/nmap-logo.png" alt="Nmap" height="28"><img src="/wireshark-logo.png" alt="Wireshark"><img src="/metasploit-logo.png" alt="Metasploit"><img src="/aircrackng-logo.png" alt="Aircrack-ng"> Hydra 🐉, CherryTree 🍒, Bettercap 🥷, Tor Project 🧅, Dirb 🖥️, Sherlock 🕵️
+* **Security Tools:**<br> <img src="/nmap-logo.png" alt="Nmap" height="28"><img src="/wireshark-logo.png" alt="Wireshark"><img src="/metasploit-logo.png" alt="Metasploit"><img src="/aircrackng-logo.png" alt="Aircrack-ng"><img src="/hydra-logo.png" alt="Hydra"> CherryTree 🍒, Bettercap 🥷, Tor Project 🧅, Dirb 🖥️, Sherlock 🕵️
 * **Core Expertise:** Network Reconnaissance, ARP Spoofing, MITM Attacks, Hidden Services (.onion), System Hardening, Wireless Security, Brute Force Testing, Network Protocols (OSI Model & TCP/IP)
 
 ### 🐧 Operating Systems, Infrastructure & Hardware
