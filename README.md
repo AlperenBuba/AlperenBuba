@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007EC6&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Python,+C%23,+Java+Developer;Learning+C+and+Assembly;Linux+%26+Open+Source+Lover" alt="Typing SVG" />
 </p>
 
-### Aspiring DevSecOps Engineer & Cybersecurity Researcher
+### Aspiring Python Developer & Cybersecurity Researcher
 
 > *"From the first line of code to production: Automated, resilient, and secure by design."*
 
