@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alperen G****!
-![Profile Views]([https://komarev.com/ghpvc/?username=AlperenBuba&color=007ec6&style=for-the-badge](https://camo.githubusercontent.com/7e58947f17526612b9164cc7507b34f8db35fbec1798b3f37fc68311a139dda7/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d416c706572656e4275626126636f6c6f723d303037656336267374796c653d666f722d7468652d6261646765))
+<img src="https://camo.githubusercontent.com/7e58947f17526612b9164cc7507b34f8db35fbec1798b3f37fc68311a139dda7/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d416c706572656e4275626126636f6c6f723d303037656336267374796c653d666f722d7468652d6261646765">
 <a href="https://github.com/AlperenBuba?tab=followers">
   <img src="https://img.shields.io/github/followers/AlperenBuba?style=for-the-badge&logo=github&color=1e1e1e" height="28">
 </a>
