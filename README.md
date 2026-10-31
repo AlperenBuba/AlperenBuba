@@ -45,9 +45,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 
-<style>
-  img{display: inline-block}
-</style>
 ### 🛡️ Cybersecurity, DevSecOps & Networking
 * **Cybersecurity tools I have experienced**<br><br> 
 ![Nmap](./nmap-logo.png)
