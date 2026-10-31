@@ -67,7 +67,7 @@
 ![Mullvad](https://img.shields.io/badge/mullvad-%23294D73.svg?style=for-the-badge&logo=mullvad&logoColor=white) <br>
 
 
-### 🤖 AI & LLMs
+### 🤖 AI & LLMs | Operating Systems
 * **AI tools I use**<br><br>
 ![Qwen](https://img.shields.io/badge/Qwen-%236950EF.svg?style=for-the-badge&logo=qwen&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
