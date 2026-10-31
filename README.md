@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alperen G****!
 <img src="https://camo.githubusercontent.com/7e58947f17526612b9164cc7507b34f8db35fbec1798b3f37fc68311a139dda7/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d416c706572656e4275626126636f6c6f723d303037656336267374796c653d666f722d7468652d6261646765">
-<a style="float: right" href="https://github.com/AlperenBuba?tab=followers">
+<a href="https://github.com/AlperenBuba?tab=followers">
   <img src="https://img.shields.io/github/followers/AlperenBuba?style=for-the-badge&logo=github&color=1e1e1e" height="28">
 </a>
 <p align="center">
@@ -50,15 +50,15 @@
 </style>
 ### 🛡️ Cybersecurity, DevSecOps & Networking
 * **Cybersecurity tools I have experienced**<br><br> 
-<img src="./nmap-logo.png" alt="Nmap" height="28">
-<img src="./wireshark-logo.png" alt="Wireshark">
-<img src="./metasploit-logo.png" alt="Metasploit">
-<img src="./aircrackng-logo.png" alt="Aircrack-ng">
-<img src="./hydra-logo.png" alt="Hydra">
-<img src="./cherrytree-logo.png" alt="CherryTree">
-<img src="./bettercap-logo.png" alt="Bettercap">
-<img src="./dirb-logo.png" alt="Dirb">
-<img src="./sherlock-logo.png" alt="Sherlock"><br><br>
+![Nmap](./nmap-logo.png)
+![Wireshark](./wireshark-logo.png)
+![Metasploit](./metasploit-logo.png)
+![Aircrackng](./aircrackng-logo.png)
+![Hydra](./hydra-logo.png)
+![CherryTree](./cherrytree-logo.png)
+![Bettercap](./bettercap-logo.png)
+![Dirb](./dirb-logo.png)
+![Sherlock](./sherlock-logo.png)<br><br>
 
 * **Tools I use for privacy**<br><br>
 ![DuckDuckGo](https://img.shields.io/badge/duckduckgo-%23de5833.svg?style=for-the-badge&logo=duckduckgo&logoColor=white)
