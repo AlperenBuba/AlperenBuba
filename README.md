@@ -143,4 +143,4 @@
 
 ## 📫 Connect Network
 
-📧 **Email:** [rambooooo@proton.me](mailto:rambooooo@proton.me)
+📧 **Email:** [nonamevxyz@protonmail.com](mailto:nonamevxyz.protonmail.com)
